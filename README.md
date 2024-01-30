@@ -13,9 +13,9 @@ Entry for Jame Gam 36
 **Game Engine:** Godot 4
 
 ## Story and Setting
-**Narrative:** A young child wakes up in the middle of the night to find a hovering flame seeking help. The flame attaches itself to the child's candle, and together they embark on a journey through a mysterious other world.
+**Narrative:** A young child wakes up in the middle of the night to find a small flame hovering over their bed seeking help. The flame attaches itself to the candle on the child's bedside table, and together they embark on a journey through a mysterious world.
 
-**Setting:** The game alternates between the familiar setting of the child’s room and surreal, otherworldly landscapes they explore.
+**Setting:** The game alternates between the familiar setting of the child’s room and surreal, otherworldly landscapes they explore. Each level could be one night.
 
 ## Characters
 - **Main Character**: A young, curious, and brave child.
@@ -26,6 +26,7 @@ Entry for Jame Gam 36
 - **Candle Mechanics**: The candle serves as the primary light source, revealing paths, solving puzzles, and protecting against creatures.
 - **Movement and Light**: The candle burns faster when the player moves quickly, balancing speed with resource management.
 - **Matches as Lives**: The player has a limited number of matches to relight the candle if it goes out.
+- **Goal**: The player needs to find and free other spirits by solving puzzles
 
 ### Level Design
 - **Dynamic Environments**: Levels feature a mix of open spaces, narrow corridors, and environmental puzzles.
@@ -40,7 +41,7 @@ Entry for Jame Gam 36
 ### Visual Style
 - **Perspective**: Top-down, reminiscent of classic Zelda games.
 - **Artistic Direction**:
-  - Detailed 2D sprites and environments.
+  - Atmospheric 2D sprites and environments.
   - Dynamic lighting effects to emphasize the candle's influence.
   - Shadows and limited light to enhance the atmosphere and mystery.
 - **Environment Design**:
@@ -48,16 +49,15 @@ Entry for Jame Gam 36
   - Interactive elements responding to the candle’s light.
 
 ### Audio
-- Detailed sound design with audio cues for navigation and interaction.
-- A whimsical and eerie soundtrack enhancing the game's dual-world theme.
+- Eerie soundtrack enhancing the game's otherworldly theme.
 
 ## Technical Details
 - **Game Engine**: Godot 4
   - Utilize Godot's 2D engine for detailed top-down levels.
   - Implement dynamic lighting and shadow systems.
 
-- **Performance Optimization**: 
-  - Optimize lighting and shadow effects for smooth gameplay.
+- **Performance Considerations**: 
+  - Lighting and shadow effects might affect performance.
   - Maintain performance without compromising visual quality.
 
 - **Accessibility Options**: 
@@ -65,6 +65,3 @@ Entry for Jame Gam 36
   - Subtitle options for narrative and auditory elements.
   - Control customization options.
 
-## Marketing and Release
-- **Promotional Strategies**: [Outline strategies: social media, trailers, etc.]
-- **Release Plan**: [Detail release timeline and platforms]
