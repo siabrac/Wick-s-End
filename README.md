@@ -1,11 +1,15 @@
 # Game Design Document for "Wick's End"
 
+Entry for Jame Gam 36
+**Theme:** "Another World"  
+**Special Object:** "Candle"
+**URL:** <https://itch.io/jam/jame-gam-36>
+
 ## Game Overview
 **Title:** Wick's End  
 **Genre:** Atmospheric Puzzle-Adventure  
 **Target Audience:** Fans of atmospheric, story-driven, and puzzle-solving games.  
-**Platform:** [Specify platforms, e.g., PC, consoles, mobile]  
-**Theme:** "Another World"  
+**Platform:** Windows, Web (if possible)  
 **Game Engine:** Godot 4
 
 ## Story and Setting
