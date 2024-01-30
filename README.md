@@ -1,9 +1,9 @@
 # Game Design Document for "Wick's End"
 
-Entry for Jame Gam 36
+Entry for Jame Gam 36  
 **Theme:** "Another World"  
-**Special Object:** "Candle"
-**URL:** <https://itch.io/jam/jame-gam-36>
+**Special Object:** "Candle"  
+**URL:** <https://itch.io/jam/jame-gam-36>  
 
 ## Game Overview
 **Title:** Wick's End  
