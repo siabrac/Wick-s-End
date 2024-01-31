@@ -1,0 +1,11 @@
+[gd_scene load_steps=3 format=3 uid="uid://dstq5aehjdbgo"]
+
+[ext_resource type="Script" path="res://scenes/light_spirit/light_spirit.gd" id="1_hn26x"]
+[ext_resource type="Texture2D" uid="uid://8myujmewdyb1" path="res://scenes/light_spirit/light_spirit_point_light_texture.tres" id="2_pxwos"]
+
+[node name="LightSpirit" type="CharacterBody2D"]
+script = ExtResource("1_hn26x")
+
+[node name="PointLight2D" type="PointLight2D" parent="."]
+color = Color(1, 1, 0.572549, 1)
+texture = ExtResource("2_pxwos")
